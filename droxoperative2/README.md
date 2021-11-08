@@ -35,4 +35,4 @@ Just delete the file of the mod you want to uninstall.
 
 A file to be placed and run on your save folder (%LocalAppData%\DroxOperative2\User\chars) to remove all sectors (.map and .wld files) and log files as well.
 
-The game keeps all your won/lost/abandoned sectors for no reason.
+The game keeps all your won/lost/abandoned sectors for no reason, and deleting them in-game isn't really practical.
