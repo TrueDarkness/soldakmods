@@ -13,3 +13,10 @@
 - [Disable Economic Wins](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_WinEconomyDisable.zip?raw=true)
 - [Disable Fear Wins](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_WinFearDisable.zip?raw=true)
 - [Disable Legend Wins](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_WinLegendDisable.zip?raw=true)
+
+## Instalation
+Place the .zip files (without extracting them) on the Assets folder inside the game's root folder.
+
+Example: c:\steam\STEAMAPPS\common\Drox Operative 2\Assets
+
+You can also reach the game's root folder by right-clicking the game on your Steam library and going on Manage -> Browse Local Files.
