@@ -31,7 +31,7 @@ Just delete the file of the mod you want to uninstall.
 
 
 ## Tool: Save Folder Clean Up
-- [Batch File](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/tool_darkness_savefoldercleanup.bat?raw=true)
+- [Batch File (right-click it, and select save link as)](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/tool_darkness_savefoldercleanup.bat?raw=true)
 
 A file to be placed and run on your save folder (%LocalAppData%\DroxOperative2\User\chars) to remove all sectors (.map and .wld files) and log files as well.
 
