@@ -28,3 +28,11 @@ If you want to disable a mod temporarily, you can create a folder inside the Ass
 
 ## Uninstalling mods
 Just delete the file of the mod you want to uninstall.
+
+
+## Tool: Save Folder Clean Up
+- [Batch File](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/tool_darkness_savefoldercleanup.bat?raw=true)
+
+A file to be placed and run on your save folder (%LocalAppData%\DroxOperative2\User\chars) to remove all sectors (.map and .wld files) and log files as well.
+
+The game keeps all your won/lost/abandoned sectors for no reason.
