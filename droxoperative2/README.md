@@ -2,7 +2,7 @@
 
 
 ## Mod List
-- [Allow Dropping the Starting Backpack](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_AllowBackpackDrop.zip?raw=true)
+- [Allow Dropping the Starting Backpack (Main Cargo Bay)](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_AllowBackpackDrop.zip?raw=true)
 - [Allow Placing Crew On Stashes](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_AllowCrewOnStash.zip?raw=true)
 - [Always Keep Crew Happy](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_CrewAlwaysHappy.zip?raw=true)
 - [Disable Triggering System Traps](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_DisableGameTraps.zip?raw=true)
