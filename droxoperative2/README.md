@@ -1,7 +1,7 @@
 # Drox Operative 2 mods by Darkness
 
 
-## Mod List
+## "Always-Use" Mod List
 - [Allow Dropping the Starting Backpack (Main Cargo Bay)](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_AllowBackpackDrop.zip?raw=true)
 - [Allow Placing Crew On Stashes](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_AllowCrewOnStash.zip?raw=true)
 - [Always Keep Crew Happy](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_CrewAlwaysHappy.zip?raw=true)
@@ -9,10 +9,12 @@
 - [Free Skill Spec and Respec](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_FreeSpecRespec.zip?raw=true)
 - [Friendly Primitive Race Trait Names](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_FriendlyPrimitiveRaceTraitNames.zip?raw=true)
 - [Disable Breaking Items When Destroying Chests](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_NoChestBreakItem.zip?raw=true)
-- [Disable Extinguishing Races From Galaxies](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_NoRaceExtinction.zip?raw=true)
 - [No XP Loss on Death](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_NoXPLossOnDeath.zip?raw=true)
-- [Primitives Generated Very Frequently](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_PrimitivesGeneratedVeryFrequently.zip?raw=true)
 - [Primitives Visible on Unidentified Planets](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_PrimitivesVisibleOnUnidentifiedPlanets.zip?raw=true)
+
+## "Situational" Mod List
+- [Disable Extinguishing Races From Galaxies](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_NoRaceExtinction.zip?raw=true)
+- [Primitives Generated Very Frequently](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_PrimitivesGeneratedVeryFrequently.zip?raw=true)
 - [Primitives Without Limit per System](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_PrimitivesWithoutLimitPerSystem.zip?raw=true)
 - [Disable Economic Wins](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_WinEconomyDisable.zip?raw=true)
 - [Disable Fear Wins](https://github.com/TrueDarkness/soldakmods/blob/main/droxoperative2/mod_darkness_WinFearDisable.zip?raw=true)
