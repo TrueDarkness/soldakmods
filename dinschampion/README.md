@@ -2,7 +2,7 @@
 
 ## "Always-Use" Mod List
 
-* [Free Skill Spec and Respec](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_FreeSpecRespec.zip)
+* [Free Skill Respec](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_FreeSpecRespec.zip)
 * [No Item Drop on Death](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_NoItemDropOnDeath.zip)
 * [No XP Loss on Death](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_NoXPLossOnDeath.zip)
 
