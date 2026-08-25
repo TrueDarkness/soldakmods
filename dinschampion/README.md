@@ -1,10 +1,16 @@
 # Din's Champion mods by Darkness
 
-## "Always-Use" Mod List
+## Mod List
 
-* [Free Skill Respec](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_FreeSpecRespec.zip)
+* [Always Bright](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_AlwaysBright.zip)
+* [Fast Walking Backwards](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_FastWalkingBackwards.zip)
+* [Free Quest Target Search](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_FreeQuestTargetSearch.zip)
+* [Free Skill Spec and Respec](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_FreeSpecRespec.zip)
+* [No Fall Damage](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_NoFallDamage.zip)
 * [No Item Drop on Death](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_NoItemDropOnDeath.zip)
 * [No XP Loss on Death](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_NoXPLossOnDeath.zip)
+* [Water Breathing](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_WaterBreathing.zip)
+* [Free Respec](https://raw.githubusercontent.com/TrueDarkness/soldakmods/main/dinschampion/mod_darkness_FreeRespec.zip)
 
 ## Installing mods
 
